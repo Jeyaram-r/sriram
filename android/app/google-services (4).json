@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "357320241600",
+    "project_id": "sriram-4c02b",
+    "storage_bucket": "sriram-4c02b.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:357320241600:android:d46de190311e799b22d825",
+        "android_client_info": {
+          "package_name": "com.example.ecommerce"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBjNRzABIXFS2O-CA8OsNy8fpYop453smo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
